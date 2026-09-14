@@ -8,3 +8,7 @@ a {
     font-weight: bold;
     text-decoration: none;
 }
+header {
+    background-color: rgb(246, 204, 153);
+    margin: 0px;
+}
